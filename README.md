@@ -20,10 +20,8 @@
 
 ### About me
 
-- 🎓 Studying **Systems Analysis and Development (ADS)** at **Sptech**
-- 🍎 Big fan of Apple's design language — minimalism, clarity, and a touch of frosted glass
-- 🌱 New profile here, but eager to build and learn
-- 📌 Follow my progress on GitHub or connect with me on LinkedIn below
+-  Studying **Systems Analysis and Development (ADS)** at **Sptech**
+-  New profile here, but eager to build and learn
 
 ---
 
