@@ -17,29 +17,17 @@ Student of **Systems Analysis and Development** at **SPTECH**, passionate about 
 
 Here are the technologies I currently work with and study:
 
-**Languages & Backend**
+**Languages, Backend & AI**
 <br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,php,swift,python" alt="JavaScript, Node.js, PHP, Swift, Python" />
 
 **Frontend & Design**
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML, CSS, Figma" />
 
-**Databases & Infrastructure**
+**Databases, Infrastructure & Tools**
 <br>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-
-**Tools & AI**
-<br>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://skillicons.dev/icons?i=mysql,linux,arduino,postman" alt="SQL, Linux, Arduino, Postman" />
 
 ---
 
