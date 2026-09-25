@@ -8,7 +8,7 @@
 
 <div align="center">
   
-### 👋 I'm Flávio Sandri Caputo
+### I'm Flávio Sandri Caputo
 
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=20&pause=1000&color=8E8E93&center=true&vCenter=true&width=500&lines=ADS+Student+at+Sptech;Apple+design+enthusiast;Always+learning+something+new" alt="Typing SVG" />
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 🧑‍💻 About me
+### About me
 
 - 🎓 Studying **Systems Analysis and Development (ADS)** at **Sptech**
 - 🍎 Big fan of Apple's design language — minimalism, clarity, and a touch of frosted glass
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Technologies
+### Technologies
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 Stats
+### Stats
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 ---
 
-### 🌐 Social
+### Social
 
 <div align="center">
 
