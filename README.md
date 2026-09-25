@@ -31,11 +31,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-1C1C1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Node.js-1C1C1E?style=for-the-badge&logo=node.js&logoColor=8CC84B" />
-<img src="https://img.shields.io/badge/MySQL-1C1C1E?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/Swift-1C1C1E?style=for-the-badge&logo=swift&logoColor=F05138" />
-<img src="https://img.shields.io/badge/Figma-1C1C1E?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,apple,figma&theme=light" />
+</a>
 
 </div>
 
