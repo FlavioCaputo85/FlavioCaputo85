@@ -28,9 +28,6 @@
     <td width="50%" align="center">
       <img src="./metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="100%"/>
     </td>
-    <td width="50%" align="center">
-      <img src="./metrics.plugin.habits.svg" alt="Coding habits" width="100%"/>
-    </td>
   </tr>
 </table>
 
